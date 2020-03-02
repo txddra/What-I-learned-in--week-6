@@ -12,3 +12,4 @@
 - The assignment that we got after learning mapping and filtering discouraged me greatly.
   
 ---
+needless to say, I'm **Not** confident in myself when it comes to this mid-term.
